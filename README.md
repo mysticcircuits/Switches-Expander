@@ -8,4 +8,4 @@ Also note that this module is made to function with my "Universal Front Plate" P
 
 For a description of the licence in simple terms please visit https://creativecommons.org/licenses/by-sa/3.0/
 
-Also my build documentation uses a lot of high resolution pictures so the final size is about 45 MB. Check this link to see the build documentation as well as the BOM: http://www.mysticcircuits.com/2015/11/building-switches-expander.html
+Also my build documentation uses a lot of high resolution pictures so the final size is about 45 MB. Check this link to see the build documentation as well as the BOM: https://drive.google.com/drive/u/0/folders/0B1jw1Qp2qZVJfk1TMTdFdXJHXy1XbFYtNUQwOE04UmhjM2FnNEloNEdpXzIxVmVnS05lcTQ?resourcekey=0-E3el34HidBngEVkU6E3JIg
